@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ergeibi Mohamed
-- 👀 I’m interested and tryin to become a full stack engineer
-- 📫 How to reach me : [email-m.ergeibi@enim.ac.ma ] [phone : +212691009469]
+- Avid coder,fluent in Java and Rust
+- 📫 How to reach me : [email- mohamed.ergeibi@gmail.com ] [phone : +212691009469]
 
 <!---
 ErgeibiMed/ErgeibiMed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
