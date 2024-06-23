@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ergeibi Mohamed
 - Avid coder,fluent in Java and Rust
-- 📫 How to reach me : [email- mohamed.ergeibi@gmail.com ] [phone : +212691009469]
+- 📫 How to reach me : [email- mohamed.ergeibi@gmail.com ] 
 
 <!---
 ErgeibiMed/ErgeibiMed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
